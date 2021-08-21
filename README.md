@@ -1,5 +1,5 @@
 # Polska Gurom Pack
-Resource pack zmieniający niektóre elementy w grze na związane z polskim community speedrunnerskim.
+Resource pack zmieniający niektóre elementy w grze na związane z polskim community speedrunnerskim. Zmienione zostały żółte napisy w menu głównym oraz niektóre achievmenty na bazie English (US). Powinien być kompatybilny z wersjami od 1.0 w górę.
 
 > INSTALACJA 
 
