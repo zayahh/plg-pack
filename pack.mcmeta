@@ -1,0 +1,13 @@
+   {
+       "pack": {
+           "pack_format": 5,
+           "description": "Polska wersja MCSR Splash Text'ów (by Zayahh)"
+       },
+	   "language": {
+			"pl_gr":{
+				"name":"Polska Gurom",
+				"region":"Polska",
+				"bidirectional":false
+			}
+	   }
+   }
