@@ -70,7 +70,7 @@
   "menu.shareToLan": "To by nic nie dało",
   "menu.sendFeedback": "Give Feedback",
   "menu.reportBugs": "Report Bugs",
-  "menu.paused": "Game paused",
+  "menu.paused": "PauseMan",
   "menu.modded": " (Modded)",
   "optimizeWorld.confirm.title": "Optimize world",
   "optimizeWorld.confirm.description": "This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed?",
