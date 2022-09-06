@@ -7,11 +7,11 @@ Aby zainstalować wystarczy, że wrzucisz paczkę zip do folderu resoucepacks w 
 
 Możesz go znaleźć klikając Options.../Opcje..., Resource Packs.../Paczki zasobów... i Open folder with packs/Otwórz folder z paczkami
 
-Po wrzuceniu zrestartuj grę i gotowe!
+Po wrzuceniu wybierz paczkę i od razu powinno działać!
 
-!! Jeśli chcesz zmienić achievmenty, zmień język na Polska Gurom (na bazie US English) !!
+!! Jeśli chcesz zmienić achievmenty, zmień język na Polska Gurom lub Poland Mountain !!
 
 
 > BŁĘDY I PROPOZYCJE 
 
-Wszelkie błędy lub propozycje nowych tektów możesz zgłosić na stronie https://polskagura.pl/issue bądź bezpośrednio do mnie tutaj -> Zajac#0649 
+Wszelkie błędy lub propozycje nowych tektów możesz zgłosić bezpośrednio do mnie na Discordzie -> Zajac#0649 
