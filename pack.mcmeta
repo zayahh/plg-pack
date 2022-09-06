@@ -1,11 +1,16 @@
    {
        "pack": {
            "pack_format": 5,
-           "description": "Polska wersja MCSR Splash Text'ów (by Zayahh)"
+           "description": "Resource pack zmieniajacy niektore elementy w grze na zwiazane z polskim community speedrunnerskim Minecrafta. "
        },
 	   "language": {
 			"pl_gr":{
 				"name":"Polska Gurom",
+				"region":"Polska",
+				"bidirectional":false
+			},
+			"pl_en":{
+				"name":"Poland Mountain",
 				"region":"Polska",
 				"bidirectional":false
 			}
